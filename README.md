@@ -43,8 +43,3 @@ The application allows users to perform basic banking operations in a secure and
 3. Create database using SQL file
 4. Run index.html
 
-## 📷 Screenshots
-(Add screenshots here)
-
-## 👤 Author
-Siddhi Kadus
